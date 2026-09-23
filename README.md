@@ -230,4 +230,4 @@ This repository serves as the official landing page for SugarCRM. The software i
 **Get the most recent version of SugarCRM today!**
 
 ---
-**Last updated:** 2026-09-23 13:55:13 UTC
+**Last updated:** 2026-09-23 18:02:07 UTC
